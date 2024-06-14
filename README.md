@@ -10,6 +10,8 @@ Test your vocabulary and deduction skills with Word Hurdle, a captivating word g
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Future Plans](#future-plans)
+- [License](#license)
 
 ## Introduction
 Word Hurdle is a word guessing game where players have a limited number of attempts to guess a hidden word. The game challenges your vocabulary and deduction skills, making it both fun and educational.
@@ -20,9 +22,9 @@ Word Hurdle is a word guessing game where players have a limited number of attem
 - Cross-platform support (iOS and Android)
 
 ## Technologies Used
-- Flutter: For building the cross-platform mobile application
-- Dart: Programming language for Flutter development
-- Swift: For iOS-specific code
+- **Flutter**: For building the cross-platform mobile application
+- **Dart**: Programming language for Flutter development
+- **Swift**: For iOS-specific code
 
 ## Installation
 To get a local copy up and running, follow these simple steps:
@@ -58,3 +60,11 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Future Plans
+- Add multiple difficulty levels
+- Implement leaderboards and scoring
+- Add more language support
+- Enhance UI/UX design
+
+## License
+This project is not licensed under the MIT License. See `LICENSE` for more information.
